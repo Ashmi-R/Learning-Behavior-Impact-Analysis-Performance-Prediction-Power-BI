@@ -40,6 +40,7 @@ DAX (Data Analysis Expressions) – KPIs, calculated measures
 CSV Dataset – Source data
 
 Project Workflow:
+
 1️⃣ Data Understanding & Requirement Analysis
 
 Reviewed dataset structure and variables

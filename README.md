@@ -1,4 +1,4 @@
-# Learning-Behavior-Impact-Analysis-Performance-Prediction-Power-BI
+# Learning Patterns & Academic Performance Analytics | Power BI
 📌 Project Overview
 
 This project analyzes how student learning behaviors and lifestyle factors influence academic performance using Power BI. The goal is to transform raw student data into actionable insights that help educational institutions, EdTech platforms, and training organizations identify performance drivers, predict at-risk students, and enable early interventions.

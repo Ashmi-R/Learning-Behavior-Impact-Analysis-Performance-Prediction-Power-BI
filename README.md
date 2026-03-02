@@ -112,22 +112,6 @@ Improves student outcome monitoring
 Supports data-driven educational strategies
 Converts behavioral data into decision-ready insights
 
-📌 Resume-Ready Summary
-
-Developed an interactive Power BI dashboard to analyze the impact of learning behaviors and lifestyle factors on student academic performance. Performed data cleaning, transformation, KPI creation, behavioral analysis, and risk identification to support proactive educational decision-making.
-
-🚀 Future Enhancements
-
-Add predictive ML models for performance forecasting
-Implement What-if parameters for study and attendance planning
-Expand dataset across multiple institutions
-
-📎 How to Use
-
-Download the .pbix file
-Open in Power BI Desktop
-Explore insights using slicers and tooltips
-
 
 
 
